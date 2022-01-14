@@ -114,7 +114,7 @@ public class BookingSteps {
     @Then("i verify warning messages")
     public void iVerifyWarningMessages() {
         // since there is not warning message in web page the implementation cant be performed
-        // I would use a jeneric method with java steam to verify error messages
+        // I would use a generic method with java steam to verify error messages
     }
 
 
